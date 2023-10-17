@@ -38,4 +38,4 @@ Handling Errors: If there are any errors during encryption or decryption, an err
 4. Customization
 This code provides a basic example of AES encryption and decryption using tkinter. You can customize and enhance it further according to your specific requirements, such as implementing more secure key management practices or adding additional features to the GUI.
 
-Please note that this code is for educational purposes/ my portfolio, and for real-world applications, you should consider additional security measures and key management practices. I will add more securitymeasures in later versions. This Code is a living document. Also note this will be the first real code I am publishion within GetHub.Hello, World! and thank you for reading.  
+Please note that this code is for educational purposes and my portfolio, and for real-world applications, you should consider additional security measures and key management practices. I will add more security measures in later versions. This code is a living document. Also, note that this will be the first real code I am publishing on GitHub.Hello, World! Thank you for reading.  
